@@ -1,0 +1,1017 @@
+2018-05-07T10:42:08.732Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T10:42:08.760Z - info: Example app listening on port 3000
+2018-05-07T10:42:25.773Z - info: Inside Index Function Redirect to index.pug
+2018-05-07T10:42:29.669Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-07T10:42:32.776Z - info:  NaN
+2018-05-07T10:42:34.729Z - info: Inside getData Function
+2018-05-07T10:42:58.980Z - info: Inside getData Function
+2018-05-07T10:44:24.066Z - info: Inside getData Function
+2018-05-07T10:44:55.245Z - info: Inside getData Function
+2018-05-07T10:45:15.525Z - info: Inside getData Function
+2018-05-07T10:45:24.511Z - info: Inside getData Function
+2018-05-07T10:45:33.361Z - info: Inside getData Function
+2018-05-07T10:46:05.798Z - info: Inside getData Function
+2018-05-07T10:47:17.016Z - info: Inside getData Function
+2018-05-07T10:47:42.111Z - info: Inside getData Function
+2018-05-07T10:47:53.430Z - info: Inside getData Function
+2018-05-07T10:48:10.445Z - info: Inside getData Function
+2018-05-07T10:53:30.513Z - info: Inside getData Function
+2018-05-07T10:53:43.936Z - info: Inside getData Function
+2018-05-07T10:53:44.521Z - info: Inside getData Function
+2018-05-07T10:53:55.028Z - info: Inside getData Function
+2018-05-07T10:54:26.918Z - info: Inside getData Function
+2018-05-07T10:55:27.772Z - info: Inside Index Function Redirect to index.pug
+2018-05-07T10:55:30.169Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-07T10:55:32.321Z - info: Inside getData Function
+2018-05-07T11:10:56.345Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-07T11:10:56.792Z - info: Inside Index Function Redirect to index.pug
+2018-05-07T11:11:26.255Z - info: Inside Insert Function
+2018-05-07T11:12:27.883Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T11:12:27.929Z - info: Example app listening on port 3000
+2018-05-07T11:12:31.995Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T11:12:32.044Z - info: Example app listening on port 3000
+2018-05-07T11:12:32.124Z - info: Inside Index Function Redirect to index.pug
+2018-05-07T11:13:30.368Z - info: Inside Insert Function
+2018-05-07T11:13:31.617Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T11:13:31.648Z - info: Example app listening on port 3000
+2018-05-07T11:13:45.664Z - info: Inside Insert Function
+2018-05-07T11:14:30.650Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T11:14:30.682Z - info: Example app listening on port 3000
+2018-05-07T11:14:33.374Z - info: Inside Index Function Redirect to index.pug
+2018-05-07T11:14:40.710Z - info: Inside Insert Function
+2018-05-07T11:14:40.734Z - info: Inside Insert Function{"_id":"5af03520dcca6526c0ed1c2e","userid":"aspire@1234","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":25,"phonenumber":"8608654945","role":"User","__v":0}
+2018-05-07T12:32:46.110Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T12:32:46.164Z - info: Example app listening on port 3000
+2018-05-07T12:32:50.947Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T12:32:50.987Z - info: Example app listening on port 3000
+2018-05-07T12:36:47.987Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T12:36:48.019Z - info: Example app listening on port 3000
+2018-05-07T12:37:17.349Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T12:37:17.378Z - info: Example app listening on port 3000
+2018-05-07T12:37:27.599Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T12:37:27.632Z - info: Example app listening on port 3000
+2018-05-07T12:57:37.354Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T12:57:37.459Z - info: Example app listening on port 3000
+2018-05-07T12:58:57.454Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T12:59:16.208Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T12:59:16.238Z - info: Example app listening on port 3000
+2018-05-07T12:59:23.784Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T12:59:34.101Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T12:59:34.141Z - info: Example app listening on port 3000
+2018-05-07T13:00:36.921Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:00:43.568Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:01:21.203Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:01:21.236Z - info: Example app listening on port 3000
+2018-05-07T13:03:04.759Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:03:04.790Z - info: Example app listening on port 3000
+2018-05-07T13:03:09.357Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:03:09.389Z - info: Example app listening on port 3000
+2018-05-07T13:03:18.415Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:03:18.449Z - info: Example app listening on port 3000
+2018-05-07T13:04:25.434Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:04:25.465Z - info: Example app listening on port 3000
+2018-05-07T13:04:39.905Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:04:39.942Z - info: Example app listening on port 3000
+2018-05-07T13:05:05.591Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:05:05.625Z - info: Example app listening on port 3000
+2018-05-07T13:05:09.759Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:05:09.794Z - info: Example app listening on port 3000
+2018-05-07T13:05:55.758Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:05:55.801Z - info: Example app listening on port 3000
+2018-05-07T13:06:19.532Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:06:19.568Z - info: Example app listening on port 3000
+2018-05-07T13:06:31.501Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:06:31.535Z - info: Example app listening on port 3000
+2018-05-07T13:07:09.491Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:07:09.525Z - info: Example app listening on port 3000
+2018-05-07T13:07:15.504Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:07:15.536Z - info: Example app listening on port 3000
+2018-05-07T13:07:52.235Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:07:52.268Z - info: Example app listening on port 3000
+2018-05-07T13:07:54.654Z - info: Inside updateIndex Function Redirect 
+2018-05-07T13:07:54.672Z - info: Log In  Successfully with user IDaspire@123
+2018-05-07T13:18:45.711Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:18:45.931Z - info: Example app listening on port 3000
+2018-05-07T13:19:20.704Z - info: Inside updateIndex Function Redirect 
+2018-05-07T13:19:20.723Z - info: Log In  Successfully with user IDaspire@123
+2018-05-07T13:19:53.296Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:19:53.388Z - info: Example app listening on port 3000
+2018-05-07T13:19:53.614Z - info: Inside updateIndex Function Redirect 
+2018-05-07T13:19:54.428Z - info: Log In  Successfully with user IDaspire@123
+2018-05-07T13:20:20.958Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:20:21.050Z - info: Example app listening on port 3000
+2018-05-07T13:20:33.565Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:20:33.648Z - info: Example app listening on port 3000
+2018-05-07T13:20:35.002Z - info: Inside updateIndex Function Redirect 
+2018-05-07T13:20:35.033Z - info: Log In  Successfully with user IDaspire@123
+2018-05-07T13:21:07.251Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:21:07.337Z - info: Example app listening on port 3000
+2018-05-07T13:21:07.595Z - info: Inside updateIndex Function Redirect 
+2018-05-07T13:21:08.372Z - info: Log In  Successfully with user IDaspire@123
+2018-05-07T13:23:13.882Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:23:13.963Z - info: Example app listening on port 3000
+2018-05-07T13:23:29.848Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:23:29.966Z - info: Example app listening on port 3000
+2018-05-07T13:23:37.226Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:23:37.325Z - info: Example app listening on port 3000
+2018-05-07T13:23:51.062Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:23:51.135Z - info: Example app listening on port 3000
+2018-05-07T13:24:00.481Z - info: Inside updateIndex Function Redirect 
+2018-05-07T13:24:00.505Z - info: Log In  Successfully with user IDaspire@123
+2018-05-07T13:24:14.309Z - info: Inside updateIndex Function Redirect 
+2018-05-07T13:24:14.320Z - info: Log In  Successfully with user IDaspire@123
+2018-05-07T13:26:14.312Z - info: Inside updateIndex Function Redirect 
+2018-05-07T13:26:14.316Z - info: Log In  Successfully with user IDaspire@123
+2018-05-07T13:29:19.070Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:30:22.718Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:30:41.125Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:30:41.208Z - info: Example app listening on port 3000
+2018-05-07T13:30:52.907Z - info: Inside updateIndex Function Redirect 
+2018-05-07T13:30:52.926Z - info: Log In  Successfully with user IDaspire@123
+2018-05-07T13:31:57.002Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-07T13:31:57.103Z - info: Example app listening on port 3000
+2018-05-07T13:32:05.072Z - info: Inside updateIndex Function Redirect 
+2018-05-07T13:32:05.091Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T03:44:41.187Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:44:41.976Z - info: Example app listening on port 3000
+2018-05-08T03:44:42.869Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:44:42.960Z - info: Example app listening on port 3000
+2018-05-08T03:45:46.400Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:45:46.501Z - info: Example app listening on port 3000
+2018-05-08T03:45:52.720Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T03:47:26.727Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:47:26.817Z - info: Example app listening on port 3000
+2018-05-08T03:47:37.931Z - info: Inside updateIndex Function Redirect 
+2018-05-08T03:47:37.954Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T03:47:37.956Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T03:48:08.669Z - info: Inside updateIndex Function Redirect 
+2018-05-08T03:48:08.673Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T03:49:34.257Z - info: Inside updateIndex Function Redirect 
+2018-05-08T03:49:34.267Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T03:49:59.349Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:49:59.428Z - info: Example app listening on port 3000
+2018-05-08T03:50:02.394Z - info: Inside updateIndex Function Redirect 
+2018-05-08T03:50:02.413Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T03:50:48.485Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:50:48.539Z - info: Example app listening on port 3000
+2018-05-08T03:52:04.764Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:52:04.816Z - info: Example app listening on port 3000
+2018-05-08T03:52:22.832Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:52:22.886Z - info: Example app listening on port 3000
+2018-05-08T03:52:28.994Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:52:29.049Z - info: Example app listening on port 3000
+2018-05-08T03:52:37.315Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:52:37.371Z - info: Example app listening on port 3000
+2018-05-08T03:53:06.249Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:53:06.326Z - info: Example app listening on port 3000
+2018-05-08T03:53:20.434Z - info: Inside updateIndex Function Redirect 
+2018-05-08T03:54:29.290Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:54:29.400Z - info: Example app listening on port 3000
+2018-05-08T03:54:29.508Z - info: Inside updateIndex Function Redirect 
+2018-05-08T03:55:10.672Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:55:10.776Z - info: Example app listening on port 3000
+2018-05-08T03:55:21.502Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:55:21.582Z - info: Example app listening on port 3000
+2018-05-08T03:55:55.092Z - info: Inside Login Function 
+2018-05-08T03:56:40.513Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:56:40.589Z - info: Example app listening on port 3000
+2018-05-08T03:56:40.731Z - info: Inside Login Function 
+2018-05-08T03:57:06.336Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:57:06.457Z - info: Example app listening on port 3000
+2018-05-08T03:58:37.053Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:58:37.142Z - info: Example app listening on port 3000
+2018-05-08T03:59:05.461Z - info: Inside Login Function 
+2018-05-08T03:59:16.280Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:59:16.358Z - info: Example app listening on port 3000
+2018-05-08T03:59:16.505Z - info: Inside Login Function 
+2018-05-08T03:59:40.467Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:59:40.544Z - info: Example app listening on port 3000
+2018-05-08T03:59:52.818Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:59:52.914Z - info: Example app listening on port 3000
+2018-05-08T03:59:57.696Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T03:59:57.783Z - info: Example app listening on port 3000
+2018-05-08T04:00:30.986Z - info: Inside Login Function 
+2018-05-08T04:01:18.712Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:01:18.791Z - info: Example app listening on port 3000
+2018-05-08T04:01:18.836Z - info: Inside Login Function 
+2018-05-08T04:01:47.130Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:01:47.220Z - info: Example app listening on port 3000
+2018-05-08T04:01:54.923Z - info: Inside Login Function 
+2018-05-08T04:01:54.924Z - info: Inside LogIn Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T04:02:45.102Z - info: Inside Login Function 
+2018-05-08T04:02:45.105Z - info: Inside LogIn Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T04:02:47.510Z - info: Inside updateIndex Function Redirect 
+2018-05-08T04:02:47.548Z - info: Inside Update Function[{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}]
+2018-05-08T04:04:32.395Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:04:32.466Z - info: Example app listening on port 3000
+2018-05-08T04:05:13.362Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:05:13.443Z - info: Example app listening on port 3000
+2018-05-08T04:05:21.219Z - info: Inside Login Function 
+2018-05-08T04:05:36.614Z - info: Inside Login Function 
+2018-05-08T04:06:14.892Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:06:14.992Z - info: Example app listening on port 3000
+2018-05-08T04:06:15.168Z - info: Inside Login Function 
+2018-05-08T04:06:16.039Z - info: Inside LogIn Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T04:06:51.948Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:06:52.033Z - info: Example app listening on port 3000
+2018-05-08T04:07:30.125Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:07:30.201Z - info: Example app listening on port 3000
+2018-05-08T04:07:42.780Z - info: Inside Login Function 
+2018-05-08T04:07:42.792Z - info: Inside LogIn Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T04:08:27.698Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:08:27.776Z - info: Example app listening on port 3000
+2018-05-08T04:08:33.249Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:08:44.803Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:08:44.880Z - info: Example app listening on port 3000
+2018-05-08T04:08:58.832Z - info: Inside Login Function 
+2018-05-08T04:08:58.843Z - info: Inside LogIn Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T04:09:00.901Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:09:02.992Z - info: Inside getData Function
+2018-05-08T04:09:07.797Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T04:09:09.816Z - info: Inside updateIndex Function Redirect 
+2018-05-08T04:09:09.824Z - info: Inside Update Function[{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}]
+2018-05-08T04:09:18.632Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T04:10:16.668Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:10:16.742Z - info: Example app listening on port 3000
+2018-05-08T04:10:20.278Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T04:11:12.084Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:11:12.158Z - info: Example app listening on port 3000
+2018-05-08T04:11:24.604Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:11:56.830Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:11:56.889Z - info: 
+2018-05-08T04:11:56.926Z - info: Example app listening on port 3000
+2018-05-08T04:12:16.098Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:12:16.169Z - info: 
+2018-05-08T04:12:16.200Z - info: Example app listening on port 3000
+2018-05-08T04:12:40.394Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:12:49.883Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:12:49.943Z - info: 
+2018-05-08T04:12:49.975Z - info: Example app listening on port 3000
+2018-05-08T04:13:03.519Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:13:03.565Z - info: 
+2018-05-08T04:13:03.595Z - info: Example app listening on port 3000
+2018-05-08T04:13:11.954Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:13:12.007Z - info: 
+2018-05-08T04:13:12.034Z - info: Example app listening on port 3000
+2018-05-08T04:13:21.856Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:13:21.927Z - info: Example app listening on port 3000
+2018-05-08T04:13:36.331Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:13:36.404Z - info: Example app listening on port 3000
+2018-05-08T04:15:15.865Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:15:42.616Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:15:57.590Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:16:43.249Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:17:04.665Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:17:14.352Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:17:51.449Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T04:18:53.822Z - info: Inside Login Function 
+2018-05-08T04:18:53.837Z - info: Inside LogIn Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T04:18:54.747Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:19:13.146Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:24:06.052Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:24:06.131Z - info: Example app listening on port 3000
+2018-05-08T04:24:15.418Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:24:15.495Z - info: Example app listening on port 3000
+2018-05-08T04:24:28.879Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:24:28.970Z - info: Example app listening on port 3000
+2018-05-08T04:25:42.588Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:26:33.277Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:26:50.045Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:26:59.305Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:27:17.401Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:27:39.228Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:27:39.308Z - info: Example app listening on port 3000
+2018-05-08T04:28:15.702Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:28:15.806Z - info: Example app listening on port 3000
+2018-05-08T04:28:40.870Z - info: Inside Login Function 
+2018-05-08T04:28:40.885Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T04:29:42.039Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:29:42.120Z - info: Example app listening on port 3000
+2018-05-08T04:29:42.372Z - info: Inside Login Function 
+2018-05-08T04:29:43.172Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T04:29:43.174Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T04:30:39.767Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:30:39.856Z - info: Example app listening on port 3000
+2018-05-08T04:30:41.015Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:30:43.476Z - info: Inside getData Function
+2018-05-08T04:30:50.488Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T04:30:54.757Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T04:31:02.193Z - info: Inside getData Function
+2018-05-08T04:31:07.327Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:31:25.682Z - info: Inside Login Function 
+2018-05-08T04:31:25.687Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T04:31:25.688Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T04:31:33.452Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:31:40.770Z - info: Inside getData Function
+2018-05-08T04:31:43.952Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T04:31:48.452Z - info: Inside updateIndex Function Redirect 
+2018-05-08T04:31:48.459Z - info: Inside Update Function[{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}]
+2018-05-08T04:36:37.878Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:36:37.958Z - info: Example app listening on port 3000
+2018-05-08T04:36:45.552Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:36:45.666Z - info: Example app listening on port 3000
+2018-05-08T04:38:43.513Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:38:43.592Z - info: Example app listening on port 3000
+2018-05-08T04:38:50.325Z - info: Inside Login Function 
+2018-05-08T04:38:50.339Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T04:39:13.873Z - info: Inside Login Function 
+2018-05-08T04:39:13.879Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T04:39:28.315Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:39:28.393Z - info: Example app listening on port 3000
+2018-05-08T04:39:51.143Z - info: Inside Login Function 
+2018-05-08T04:39:51.159Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T04:39:51.161Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T04:40:20.042Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:40:20.124Z - info: Example app listening on port 3000
+2018-05-08T04:40:24.813Z - info: Inside Login Function 
+2018-05-08T04:40:24.828Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T04:41:04.947Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:41:05.055Z - info: Example app listening on port 3000
+2018-05-08T04:41:30.450Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:41:30.537Z - info: Example app listening on port 3000
+2018-05-08T04:42:28.779Z - info: Inside Login Function 
+2018-05-08T04:42:28.801Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T04:42:28.804Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T04:43:50.028Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:43:50.145Z - info: Example app listening on port 3000
+2018-05-08T04:44:02.848Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:44:02.940Z - info: Example app listening on port 3000
+2018-05-08T04:44:19.701Z - info: Inside Login Function 
+2018-05-08T04:44:19.715Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T04:44:19.717Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T04:44:34.135Z - info: Inside Login Function 
+2018-05-08T04:44:34.138Z - info: Log In  Successfully with user IDaspire@123456789
+2018-05-08T04:44:34.138Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T04:50:31.795Z - info: Inside Login Function 
+2018-05-08T04:50:31.803Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T04:50:31.806Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T04:50:52.533Z - info: Inside updateIndex Function Redirect 
+2018-05-08T04:50:52.545Z - info: Inside Update Function[{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}]
+2018-05-08T04:50:55.172Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T04:50:57.068Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:50:59.145Z - info: Inside getData Function
+2018-05-08T04:52:37.837Z - info: Inside Login Function 
+2018-05-08T04:52:37.839Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T04:53:50.178Z - info: Inside Login Function 
+2018-05-08T04:53:50.181Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T04:54:04.021Z - info: Inside Login Function 
+2018-05-08T04:54:04.026Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T04:55:09.389Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:55:10.816Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:55:15.749Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:55:17.021Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:55:51.189Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:55:53.660Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:56:29.552Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:56:29.637Z - info: Example app listening on port 3000
+2018-05-08T04:56:31.093Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T04:56:31.175Z - info: Example app listening on port 3000
+2018-05-08T04:56:57.092Z - info: Inside Login Function 
+2018-05-08T04:56:57.107Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T04:56:57.108Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T04:56:59.995Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T04:57:01.699Z - info: Inside getData Function
+2018-05-08T04:57:03.088Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T04:57:04.652Z - info: Inside updateIndex Function Redirect 
+2018-05-08T04:57:04.657Z - info: Inside Update Function[{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}]
+2018-05-08T06:09:06.139Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:09:06.260Z - info: Example app listening on port 3000
+2018-05-08T06:09:07.469Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:09:07.546Z - info: Example app listening on port 3000
+2018-05-08T06:09:15.057Z - info: Inside Login Function 
+2018-05-08T06:09:15.073Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T06:09:15.075Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T06:16:54.031Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:16:54.118Z - info: Example app listening on port 3000
+2018-05-08T06:17:12.746Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:17:12.830Z - info: Example app listening on port 3000
+2018-05-08T06:17:41.096Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:17:41.177Z - info: Example app listening on port 3000
+2018-05-08T06:17:55.179Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:17:55.259Z - info: Example app listening on port 3000
+2018-05-08T06:18:01.588Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:18:01.668Z - info: Example app listening on port 3000
+2018-05-08T06:18:32.919Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:18:33.001Z - info: Example app listening on port 3000
+2018-05-08T06:19:29.590Z - info: Inside Login Function 
+2018-05-08T06:19:29.608Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T06:19:29.610Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T06:19:32.027Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:22:31.856Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:23:00.412Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:23:31.773Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:23:45.232Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:25:18.118Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:25:37.527Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:26:10.204Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:26:19.435Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:26:20.163Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:26:42.503Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:26:49.139Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:27:14.229Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:27:14.311Z - info: Example app listening on port 3000
+2018-05-08T06:27:30.842Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:27:30.956Z - info: Example app listening on port 3000
+2018-05-08T06:27:32.192Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:27:49.055Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:28:15.577Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:28:35.707Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:28:41.815Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:28:41.901Z - info: Example app listening on port 3000
+2018-05-08T06:28:44.891Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:30:27.393Z - info: Inside updateIndex Function Redirect 
+2018-05-08T06:30:27.401Z - info: Inside Update Function[{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}]
+2018-05-08T06:30:30.206Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T06:30:32.798Z - info: Inside updateIndex Function Redirect 
+2018-05-08T06:30:32.806Z - info: Inside Update Function[{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}]
+2018-05-08T06:30:38.152Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T06:34:24.357Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:34:37.059Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:34:44.808Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:35:19.744Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:35:31.956Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:42:05.386Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:42:05.466Z - info: Example app listening on port 3000
+2018-05-08T06:42:19.238Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:42:19.315Z - info: Example app listening on port 3000
+2018-05-08T06:42:27.006Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:42:27.085Z - info: Example app listening on port 3000
+2018-05-08T06:42:38.432Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:42:38.530Z - info: Example app listening on port 3000
+2018-05-08T06:43:09.373Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:43:09.457Z - info: Example app listening on port 3000
+2018-05-08T06:44:32.171Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:44:32.245Z - info: Example app listening on port 3000
+2018-05-08T06:44:47.241Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:44:47.323Z - info: Example app listening on port 3000
+2018-05-08T06:45:06.165Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:45:06.244Z - info: Example app listening on port 3000
+2018-05-08T06:45:24.421Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:45:24.523Z - info: Example app listening on port 3000
+2018-05-08T06:45:28.863Z - info: Inside Login Function 
+2018-05-08T06:45:28.879Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T06:45:28.881Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T06:45:31.002Z - info: Inside updateIndex Function Redirect 
+2018-05-08T06:45:31.011Z - info: Inside Update Function[]
+2018-05-08T06:46:06.273Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:46:06.379Z - info: Example app listening on port 3000
+2018-05-08T06:46:09.910Z - info: Inside Login Function 
+2018-05-08T06:46:09.924Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T06:46:22.124Z - info: Inside updateIndex Function Redirect 
+2018-05-08T06:46:22.129Z - info: Inside Update Function[]
+2018-05-08T06:46:40.168Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:46:40.270Z - info: Example app listening on port 3000
+2018-05-08T06:47:25.515Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:47:25.594Z - info: Example app listening on port 3000
+2018-05-08T06:49:39.105Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:49:39.179Z - info: Example app listening on port 3000
+2018-05-08T06:50:07.951Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:50:08.037Z - info: Example app listening on port 3000
+2018-05-08T06:50:51.294Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:50:51.379Z - info: Example app listening on port 3000
+2018-05-08T06:50:58.327Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:50:58.413Z - info: Example app listening on port 3000
+2018-05-08T06:51:09.626Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:51:12.977Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:51:29.890Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:52:42.372Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:53:17.806Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:53:33.010Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:53:50.490Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:54:04.855Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:54:14.184Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:54:16.825Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:54:23.676Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:54:55.113Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:54:55.191Z - info: Example app listening on port 3000
+2018-05-08T06:55:01.269Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:55:01.348Z - info: Example app listening on port 3000
+2018-05-08T06:55:07.942Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:55:08.020Z - info: Example app listening on port 3000
+2018-05-08T06:55:18.778Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:55:18.859Z - info: Example app listening on port 3000
+2018-05-08T06:55:34.893Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:55:34.979Z - info: Example app listening on port 3000
+2018-05-08T06:55:38.008Z - info: Inside Login Function 
+2018-05-08T06:55:38.025Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T06:55:41.802Z - info: Inside updateIndex Function Redirect 
+2018-05-08T06:55:41.811Z - info: Inside Update Function[]
+2018-05-08T06:56:26.173Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:56:26.255Z - info: Example app listening on port 3000
+2018-05-08T06:56:32.586Z - info: Inside Login Function 
+2018-05-08T06:56:32.604Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T06:56:50.866Z - info: Inside updateIndex Function Redirect 
+2018-05-08T06:56:50.872Z - info: Inside Update Function[]
+2018-05-08T06:58:06.882Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:58:44.633Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T06:59:13.426Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:00:58.521Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:00:58.598Z - info: Example app listening on port 3000
+2018-05-08T07:03:35.310Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:03:35.397Z - info: Example app listening on port 3000
+2018-05-08T07:04:42.869Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:04:42.949Z - info: Example app listening on port 3000
+2018-05-08T07:04:53.032Z - info: Inside Login Function 
+2018-05-08T07:04:53.138Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:04:53.141Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T07:05:33.766Z - info: Inside Login Function 
+2018-05-08T07:05:33.771Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:06:12.993Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:06:13.074Z - info: Example app listening on port 3000
+2018-05-08T07:07:21.282Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:07:21.363Z - info: Example app listening on port 3000
+2018-05-08T07:07:30.660Z - info: Inside Login Function 
+2018-05-08T07:07:30.672Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:07:54.656Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:07:54.800Z - info: Example app listening on port 3000
+2018-05-08T07:18:05.256Z - info: Inside Login Function 
+2018-05-08T07:18:05.265Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:18:38.245Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:18:38.382Z - info: Example app listening on port 3000
+2018-05-08T07:18:39.289Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:18:39.372Z - info: Example app listening on port 3000
+2018-05-08T07:19:15.427Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:19:15.517Z - info: Example app listening on port 3000
+2018-05-08T07:19:23.464Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:19:23.543Z - info: Example app listening on port 3000
+2018-05-08T07:19:56.971Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:19:57.054Z - info: Example app listening on port 3000
+2018-05-08T07:20:01.748Z - info: Inside Login Function 
+2018-05-08T07:20:01.757Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:20:01.759Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T07:20:43.663Z - info: Inside Login Function 
+2018-05-08T07:20:43.666Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:20:43.666Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T07:20:46.851Z - info: Inside getData Function
+2018-05-08T07:20:49.376Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T07:20:51.434Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T07:20:53.712Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T07:20:57.206Z - info: Inside updateIndex Function Redirect 
+2018-05-08T07:20:57.208Z - info: Inside Update Function[]
+2018-05-08T07:21:00.909Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T07:21:21.444Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:21:21.528Z - info: Example app listening on port 3000
+2018-05-08T07:21:26.418Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:21:26.497Z - info: Example app listening on port 3000
+2018-05-08T07:21:31.132Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:21:31.210Z - info: Example app listening on port 3000
+2018-05-08T07:21:36.181Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:21:36.271Z - info: Example app listening on port 3000
+2018-05-08T07:21:38.989Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:21:39.071Z - info: Example app listening on port 3000
+2018-05-08T07:24:57.214Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:24:57.294Z - info: Example app listening on port 3000
+2018-05-08T07:25:39.587Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:25:39.682Z - info: Example app listening on port 3000
+2018-05-08T07:25:52.309Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:25:52.397Z - info: Example app listening on port 3000
+2018-05-08T07:26:06.912Z - info: Inside Login Function 
+2018-05-08T07:26:06.923Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:26:06.924Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/user.html
+2018-05-08T07:26:58.601Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:26:58.703Z - info: Example app listening on port 3000
+2018-05-08T07:27:10.218Z - info: Inside Login Function 
+2018-05-08T07:27:10.227Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:27:10.228Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/user.html
+2018-05-08T07:27:39.771Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:27:39.865Z - info: Example app listening on port 3000
+2018-05-08T07:27:58.868Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:27:58.951Z - info: Example app listening on port 3000
+2018-05-08T07:28:14.569Z - info: Inside Login Function 
+2018-05-08T07:28:14.580Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:28:14.581Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/user.html
+2018-05-08T07:28:48.216Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:28:48.301Z - info: Example app listening on port 3000
+2018-05-08T07:29:02.993Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:29:03.076Z - info: Example app listening on port 3000
+2018-05-08T07:29:24.501Z - info: Inside Login Function 
+2018-05-08T07:29:24.511Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:29:24.511Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/user.html
+2018-05-08T07:30:37.488Z - info: Inside Login Function 
+2018-05-08T07:30:37.495Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:30:37.496Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/user.html
+2018-05-08T07:31:28.469Z - info: Inside updateIndex Function Redirect 
+2018-05-08T07:31:28.474Z - info: Inside Update Function[]
+2018-05-08T07:32:20.515Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:32:20.608Z - info: Example app listening on port 3000
+2018-05-08T07:32:36.224Z - info: Inside Login Function 
+2018-05-08T07:32:36.248Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:32:41.745Z - info: Inside Login Function 
+2018-05-08T07:32:41.748Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:33:04.266Z - info: Inside Login Function 
+2018-05-08T07:33:04.268Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:33:18.858Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:33:18.949Z - info: Example app listening on port 3000
+2018-05-08T07:33:18.984Z - info: Inside Login Function 
+2018-05-08T07:33:20.986Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:33:43.909Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:33:44.003Z - info: Example app listening on port 3000
+2018-05-08T07:33:53.703Z - info: Inside Login Function 
+2018-05-08T07:33:53.716Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:34:21.577Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:34:21.655Z - info: Example app listening on port 3000
+2018-05-08T07:34:21.763Z - info: Inside Login Function 
+2018-05-08T07:34:23.721Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:34:33.077Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:34:33.157Z - info: Example app listening on port 3000
+2018-05-08T07:35:07.304Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:35:07.381Z - info: Example app listening on port 3000
+2018-05-08T07:35:09.199Z - info: Inside Login Function 
+2018-05-08T07:35:09.438Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:35:09.442Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T07:35:33.150Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:35:33.228Z - info: Example app listening on port 3000
+2018-05-08T07:35:57.731Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:35:57.809Z - info: Example app listening on port 3000
+2018-05-08T07:35:58.059Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T07:36:08.064Z - info: Inside Login Function 
+2018-05-08T07:36:08.077Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:38:08.069Z - info: Inside Login Function 
+2018-05-08T07:38:08.074Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:45:00.705Z - info: Inside Login Function 
+2018-05-08T07:45:00.709Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:46:30.421Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:46:30.503Z - info: Example app listening on port 3000
+2018-05-08T07:46:37.984Z - info: Inside Login Function 
+2018-05-08T07:46:37.996Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:47:01.885Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:47:01.967Z - info: Example app listening on port 3000
+2018-05-08T07:47:02.132Z - info: Inside Login Function 
+2018-05-08T07:47:04.030Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:47:05.915Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:47:05.995Z - info: Example app listening on port 3000
+2018-05-08T07:47:15.528Z - info: Inside Login Function 
+2018-05-08T07:47:15.539Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:47:34.503Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:47:34.582Z - info: Example app listening on port 3000
+2018-05-08T07:47:34.782Z - info: Inside Login Function 
+2018-05-08T07:47:36.640Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:48:26.163Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:48:26.243Z - info: Example app listening on port 3000
+2018-05-08T07:48:47.919Z - info: Inside Login Function 
+2018-05-08T07:48:47.931Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:49:15.444Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:49:15.533Z - info: Example app listening on port 3000
+2018-05-08T07:49:24.625Z - info: Inside Login Function 
+2018-05-08T07:49:24.636Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:49:24.646Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T07:49:56.687Z - info: Inside Login Function 
+2018-05-08T07:49:56.691Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:49:56.692Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T07:50:01.028Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T07:50:16.862Z - info: Inside Insert Function
+2018-05-08T07:50:49.873Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T07:50:49.957Z - info: Example app listening on port 3000
+2018-05-08T07:51:21.438Z - info: Inside Login Function 
+2018-05-08T07:51:21.447Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T07:53:21.442Z - info: Inside Login Function 
+2018-05-08T07:53:21.446Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:02:27.457Z - info: Inside Login Function 
+2018-05-08T09:02:27.459Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:02:27.460Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T09:02:46.069Z - info: Inside Login Function 
+2018-05-08T09:02:46.071Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:02:46.072Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T09:03:03.259Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:03:03.416Z - info: Example app listening on port 3000
+2018-05-08T09:03:08.223Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:03:08.331Z - info: Example app listening on port 3000
+2018-05-08T09:03:10.055Z - info: Inside Login Function 
+2018-05-08T09:03:11.401Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:03:24.798Z - info: Inside Login Function 
+2018-05-08T09:03:24.802Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:03:24.804Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T09:04:38.491Z - info: Inside Login Function 
+2018-05-08T09:04:38.497Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:05:11.773Z - info: Inside Login Function 
+2018-05-08T09:05:11.775Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:05:11.776Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T09:05:49.545Z - info: Inside Login Function 
+2018-05-08T09:05:49.547Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:06:46.262Z - info: Inside Login Function 
+2018-05-08T09:06:46.264Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:06:46.265Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T09:08:00.100Z - info: Inside Login Function 
+2018-05-08T09:08:00.102Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:08:17.052Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:08:17.143Z - info: Example app listening on port 3000
+2018-05-08T09:08:36.743Z - info: Inside Login Function 
+2018-05-08T09:08:36.755Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:08:36.756Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T09:09:14.806Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:09:14.884Z - info: Example app listening on port 3000
+2018-05-08T09:09:30.110Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:09:30.193Z - info: Example app listening on port 3000
+2018-05-08T09:10:00.433Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:10:00.515Z - info: Example app listening on port 3000
+2018-05-08T09:10:25.334Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:10:25.433Z - info: Example app listening on port 3000
+2018-05-08T09:10:28.008Z - info: Inside Login Function 
+2018-05-08T09:10:28.020Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:17:53.035Z - info: Inside Login Function 
+2018-05-08T09:17:53.038Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:18:27.418Z - info: Inside Login Function 
+2018-05-08T09:18:27.421Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:18:48.386Z - info: Inside Login Function 
+2018-05-08T09:18:48.390Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:18:48.390Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T09:19:23.236Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:19:23.328Z - info: Example app listening on port 3000
+2018-05-08T09:28:59.304Z - info: Inside Login Function 
+2018-05-08T09:28:59.316Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:29:45.425Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:29:45.503Z - info: Example app listening on port 3000
+2018-05-08T09:29:45.633Z - info: Inside Login Function 
+2018-05-08T09:29:47.566Z - info: Log In  Successfully with user IDaspire@123
+2018-05-08T09:33:07.188Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:33:07.270Z - info: Example app listening on port 3000
+2018-05-08T09:33:33.633Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:33:43.157Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:33:43.239Z - info: Example app listening on port 3000
+2018-05-08T09:34:00.200Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:34:00.290Z - info: Example app listening on port 3000
+2018-05-08T09:34:29.446Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:34:29.527Z - info: Example app listening on port 3000
+2018-05-08T09:34:39.173Z - info: Inside Login Function 
+2018-05-08T09:34:39.181Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T09:35:07.825Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:35:07.902Z - info: Example app listening on port 3000
+2018-05-08T09:35:17.241Z - info: Inside Login Function 
+2018-05-08T09:35:17.248Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T09:35:18.297Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T09:35:22.430Z - info: Inside getData Function
+2018-05-08T09:35:24.119Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T09:35:31.715Z - info: Inside updateIndex Function Redirect 
+2018-05-08T09:37:31.829Z - info: Inside updateIndex Function Redirect 
+2018-05-08T09:39:31.927Z - info: Inside updateIndex Function Redirect 
+2018-05-08T09:52:10.813Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:52:10.912Z - info: Example app listening on port 3000
+2018-05-08T09:52:17.565Z - info: Inside Login Function 
+2018-05-08T09:52:17.573Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T09:52:19.314Z - info: Inside updateIndex Function Redirect 
+2018-05-08T09:52:22.376Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T09:53:12.302Z - info: Inside Login Function 
+2018-05-08T09:53:12.304Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T09:53:15.408Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T09:53:59.058Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:53:59.141Z - info: Example app listening on port 3000
+2018-05-08T09:54:01.208Z - info:  NaN
+2018-05-08T09:54:20.928Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:54:45.292Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:54:45.371Z - info: Example app listening on port 3000
+2018-05-08T09:57:15.072Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T09:58:34.668Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T09:58:34.787Z - info: Example app listening on port 3000
+2018-05-08T09:58:45.386Z - info: Inside Login Function 
+2018-05-08T09:58:45.395Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T09:58:52.551Z - info: Inside updateIndex Function Redirect 
+2018-05-08T09:59:06.974Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T09:59:29.074Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T10:01:54.718Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:01:54.802Z - info: Example app listening on port 3000
+2018-05-08T10:02:35.613Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:02:35.694Z - info: Example app listening on port 3000
+2018-05-08T10:03:05.627Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:03:05.751Z - info: Example app listening on port 3000
+2018-05-08T10:03:09.952Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:03:10.039Z - info: Example app listening on port 3000
+2018-05-08T10:03:27.493Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:03:27.573Z - info: Example app listening on port 3000
+2018-05-08T10:05:01.090Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:05:01.172Z - info: Example app listening on port 3000
+2018-05-08T10:05:13.771Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:05:13.851Z - info: Example app listening on port 3000
+2018-05-08T10:05:28.722Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:05:28.806Z - info: Example app listening on port 3000
+2018-05-08T10:05:30.871Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T10:05:48.096Z - info: Inside Login Function 
+2018-05-08T10:06:06.956Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:06:07.036Z - info: Example app listening on port 3000
+2018-05-08T10:06:16.153Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:06:16.236Z - info: Example app listening on port 3000
+2018-05-08T10:06:17.690Z - info: Inside Login Function 
+2018-05-08T10:06:43.234Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:06:43.311Z - info: Example app listening on port 3000
+2018-05-08T10:06:45.517Z - info: Inside Login Function 
+2018-05-08T10:07:02.294Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:07:02.372Z - info: Example app listening on port 3000
+2018-05-08T10:07:32.370Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:07:32.449Z - info: Example app listening on port 3000
+2018-05-08T10:08:18.152Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:08:18.233Z - info: Example app listening on port 3000
+2018-05-08T10:08:21.577Z - info: Inside Login Function 
+2018-05-08T10:08:33.899Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T10:09:01.432Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:09:01.508Z - info: Example app listening on port 3000
+2018-05-08T10:09:03.564Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T10:09:33.789Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T10:09:35.373Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:09:35.451Z - info: Example app listening on port 3000
+2018-05-08T10:09:47.090Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T10:10:32.174Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:10:32.255Z - info: Example app listening on port 3000
+2018-05-08T10:10:48.312Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:10:48.391Z - info: Example app listening on port 3000
+2018-05-08T10:10:50.441Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T10:10:59.805Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T10:55:39.045Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:55:39.153Z - info: Example app listening on port 3000
+2018-05-08T10:55:42.516Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:55:42.605Z - info: Example app listening on port 3000
+2018-05-08T10:56:24.060Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:56:24.146Z - info: Example app listening on port 3000
+2018-05-08T10:56:31.056Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:56:31.144Z - info: Example app listening on port 3000
+2018-05-08T10:56:44.734Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:56:44.820Z - info: Example app listening on port 3000
+2018-05-08T10:56:50.751Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:56:50.831Z - info: Example app listening on port 3000
+2018-05-08T10:57:10.321Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:57:10.403Z - info: Example app listening on port 3000
+2018-05-08T10:57:25.253Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:57:25.332Z - info: Example app listening on port 3000
+2018-05-08T10:57:28.399Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T10:58:14.161Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:58:14.271Z - info: Example app listening on port 3000
+2018-05-08T10:58:17.838Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T10:58:17.915Z - info: Example app listening on port 3000
+2018-05-08T11:00:23.442Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:00:23.519Z - info: Example app listening on port 3000
+2018-05-08T11:00:42.843Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:00:42.926Z - info: Example app listening on port 3000
+2018-05-08T11:01:09.265Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:01:09.349Z - info: Example app listening on port 3000
+2018-05-08T11:01:37.046Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:01:37.138Z - info: Example app listening on port 3000
+2018-05-08T11:01:39.205Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T11:01:41.130Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T11:01:57.991Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:01:58.075Z - info: Example app listening on port 3000
+2018-05-08T11:02:08.417Z - info: Inside Login Function 
+2018-05-08T11:02:08.434Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T11:02:34.750Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:02:34.839Z - info: Example app listening on port 3000
+2018-05-08T11:02:41.802Z - info: Inside Login Function 
+2018-05-08T11:02:41.814Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T11:02:58.563Z - info: Inside Login Function 
+2018-05-08T11:03:27.393Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:03:27.546Z - info: Example app listening on port 3000
+2018-05-08T11:03:27.612Z - info: Inside Login Function 
+2018-05-08T11:03:32.027Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:03:32.108Z - info: Example app listening on port 3000
+2018-05-08T11:03:50.165Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:03:50.249Z - info: Example app listening on port 3000
+2018-05-08T11:03:57.577Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:03:57.656Z - info: Example app listening on port 3000
+2018-05-08T11:04:02.923Z - info: Inside Login Function 
+2018-05-08T11:04:46.697Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:04:46.775Z - info: Example app listening on port 3000
+2018-05-08T11:05:17.429Z - info: Inside Login Function 
+2018-05-08T11:05:29.148Z - info: Inside Login Function 
+2018-05-08T11:05:29.155Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T11:05:37.588Z - info: Inside Login Function 
+2018-05-08T11:10:08.510Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:10:08.592Z - info: Example app listening on port 3000
+2018-05-08T11:11:23.237Z - info: Inside Login Function 
+2018-05-08T11:11:23.251Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T11:11:27.556Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T11:12:35.104Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:12:35.185Z - info: Example app listening on port 3000
+2018-05-08T11:13:03.636Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:13:15.029Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:13:30.515Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:13:30.597Z - info: Example app listening on port 3000
+2018-05-08T11:13:52.931Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:13:53.019Z - info: Example app listening on port 3000
+2018-05-08T11:14:04.175Z - info: Inside Login Function 
+2018-05-08T11:14:04.191Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T11:14:05.330Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:14:05.336Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:15:11.639Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:15:11.647Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:15:24.814Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:15:24.818Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:17:31.866Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:17:31.871Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:17:39.440Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:17:39.453Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:18:45.107Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:18:45.111Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:18:50.606Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T11:18:53.556Z - info: Inside getData Function
+2018-05-08T11:19:00.917Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T11:19:02.601Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:19:02.603Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:19:50.582Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:19:50.586Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:20:28.935Z - info: Inside Login Function 
+2018-05-08T11:20:28.938Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T11:20:30.864Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:20:30.868Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:20:41.798Z - info: Inside Insert Function
+2018-05-08T11:21:29.862Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:21:29.869Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:22:03.539Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:22:03.619Z - info: Example app listening on port 3000
+2018-05-08T11:22:03.762Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:22:05.656Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:22:09.822Z - info: User Detail Updated successfully
+2018-05-08T11:22:13.843Z - info: Inside getData Function
+2018-05-08T11:23:03.591Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:23:03.670Z - info: Example app listening on port 3000
+2018-05-08T11:23:06.933Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:23:06.951Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:23:18.667Z - info: User Detail Updated successfully
+2018-05-08T11:23:22.005Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:23:22.011Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:23:25.384Z - info: Inside getData Function
+2018-05-08T11:24:31.979Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:24:32.069Z - info: Example app listening on port 3000
+2018-05-08T11:25:02.785Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:25:02.863Z - info: Example app listening on port 3000
+2018-05-08T11:25:30.619Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:25:30.702Z - info: Example app listening on port 3000
+2018-05-08T11:25:32.672Z - info: Inside Login Function 
+2018-05-08T11:25:33.756Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T11:25:34.365Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:25:34.370Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:25:41.050Z - info: User Detail Updated successfully{}
+2018-05-08T11:25:44.168Z - info: Inside getData Function
+2018-05-08T11:26:12.457Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:26:12.537Z - info: Example app listening on port 3000
+2018-05-08T11:26:41.716Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:26:41.797Z - info: Example app listening on port 3000
+2018-05-08T11:27:01.127Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:27:01.214Z - info: Example app listening on port 3000
+2018-05-08T11:27:05.929Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:27:06.012Z - info: Example app listening on port 3000
+2018-05-08T11:27:08.187Z - info: Inside Login Function 
+2018-05-08T11:27:08.201Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T11:27:09.049Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:27:09.056Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":21,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:27:14.584Z - info: User Detail Updated successfully{"userid":"aspire@123"}
+2018-05-08T11:27:19.134Z - info: Inside getData Function
+2018-05-08T11:28:07.228Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:28:07.306Z - info: Example app listening on port 3000
+2018-05-08T11:28:20.134Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:28:20.209Z - info: Example app listening on port 3000
+2018-05-08T11:28:22.941Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T11:28:59.554Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:28:59.636Z - info: Example app listening on port 3000
+2018-05-08T11:29:21.538Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T11:29:21.645Z - info: Example app listening on port 3000
+2018-05-08T11:29:30.138Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:29:30.152Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"India","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":9159730164,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:30:04.415Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:30:04.419Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"India","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":9159730164,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T11:30:43.626Z - info: Inside Login Function 
+2018-05-08T11:30:43.629Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T11:30:45.368Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T11:31:04.801Z - info: Inside Insert Function
+2018-05-08T11:31:05.853Z - info: Inside Insert Function{"_id":"5af18a78066c721dd83f3e53","userid":"aspire@1234","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":25,"phonenumber":"8608654945","role":"User","__v":0}
+2018-05-08T11:31:08.604Z - info: Inside getData Function
+2018-05-08T11:31:26.179Z - info: Inside Login Function 
+2018-05-08T11:31:26.181Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/user.html
+2018-05-08T11:31:31.313Z - info: Inside getData Function
+2018-05-08T11:31:32.783Z - info: Inside updateIndex Function Redirect 
+2018-05-08T11:31:32.787Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"India","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":9159730164,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T12:26:29.256Z - info: Inside Login Function 
+2018-05-08T12:26:29.260Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T12:26:31.281Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T12:26:33.144Z - info: Inside getData Function
+2018-05-08T12:26:36.655Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T12:26:44.227Z - info: Inside updateIndex Function Redirect 
+2018-05-08T12:26:44.236Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"India","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":9159730164,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T12:27:31.706Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T12:27:31.828Z - info: Example app listening on port 3000
+2018-05-08T12:27:35.920Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T12:27:36.005Z - info: Example app listening on port 3000
+2018-05-08T12:29:23.509Z - info: Inside Login Function 
+2018-05-08T12:29:23.525Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T12:29:56.206Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T12:30:07.117Z - info: Inside getData Function
+2018-05-08T12:30:09.040Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T12:31:19.002Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T12:32:53.525Z - info: Inside Login Function 
+2018-05-08T12:32:53.532Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T12:32:54.669Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T12:33:25.298Z - info: Inside Insert Function
+2018-05-08T12:33:27.333Z - info: Inside Insert Function{"_id":"5af1991538e46e23f0c44bd7","userid":"aspire@12345","firstname":"Aspire","lastname":"Systems","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":26,"phonenumber":"1234567890","role":"User","__v":0}
+2018-05-08T12:33:42.190Z - info: Inside getData Function
+2018-05-08T12:33:46.306Z - info: Inside deleteIndex Function Redirect to delete.pug page
+2018-05-08T12:33:48.342Z - info: Inside updateIndex Function Redirect 
+2018-05-08T12:33:48.345Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"India","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":9159730164,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T12:35:38.297Z - info: Inside Index Function Redirect to index.pug
+2018-05-08T12:35:56.758Z - info: Inside Insert Function
+2018-05-08T12:36:30.225Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T12:36:30.314Z - info: Example app listening on port 3000
+2018-05-08T12:36:51.159Z - info: DB Connected Successfully with mongodb://localhost:27017/Users
+2018-05-08T12:36:51.243Z - info: Example app listening on port 3000
+2018-05-08T12:39:46.015Z - info: Inside Insert Function
+2018-05-08T12:39:56.516Z - info: Inside Login Function 
+2018-05-08T12:39:56.528Z - info: Inside Index Function Redirect toC:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-08T12:39:58.705Z - info: Inside updateIndex Function Redirect 
+2018-05-08T12:39:58.711Z - info: Inside Update Function{"_id":"5aefd52af10ae10474e6737a","userid":"aspire@123","firstname":"Aspire","lastname":"India","password":"e17b1c9ba9dd30fc91760598cb1d9494","age":9159730164,"phonenumber":"9159730164","role":"Admin","__v":0}
+2018-05-08T12:40:34.413Z - info: User Detail Updated successfully{"userid":"aspire@123"}
+2018-05-08T12:40:38.990Z - info: Inside getData Function
+2018-05-08T12:40:46.177Z - info: Inside Index Function Redirect to index.pug

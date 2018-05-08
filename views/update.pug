@@ -1,0 +1,40 @@
+doctype html
+html(lang='en')
+  head
+    title= title
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css')
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js')
+    script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js')
+  body
+    div(class='container')
+      div(class='row')
+        div(class='col-sm-12')
+        h1= title
+        p Hi  #{users.firstname} Here you can Edit and Save your details ,
+
+        form(method='POST' action='/update')
+            div.form-group
+                label(for='UserId') Email ID:
+                input#userid.form-control(type='text', placeholder='User id' name='userid' required='true' value=(undefined===users ? 'Empty' : users.userid) )
+            div.form-group
+                label(for='firstname') First Name:
+                input#firstname.form-control(type='text' placeholder='firstname' name='firstname' required='true' value=(undefined===users ? 'Empty' : users.firstname) )
+            div.form-group
+                label(for='lastname') Last Name:
+                input#lastname.form-control(type='text' placeholder='lastname' name='lastname' required='true' value=(undefined===users ? 'Empty' : users.lastname) )
+            div.form-group
+                label(for='password') Password:
+                input#password.form-control(type='password' placeholder='password' name='password' required='true' value=(undefined===users ? 'Empty' : users.password))
+            div.form-group
+                label(for='age') Age:
+                input#age.form-control(type='text' placeholder='age' name='age' required='true' value=(undefined===users ? 'Empty' : users.age) )
+            div.form-group
+                label(for='phonenumber') Phone Number:
+                input#phonenumber.form-control(type='text' placeholder='phonenumber' name='phonenumber' required='true' value=(undefined===users ? 'Empty' : users.phonenumber) )
+            button.btn.btn-primary(type='submit') Submit
+        if errors 
+            ul
+            for error in errors
+                li!= error.msg

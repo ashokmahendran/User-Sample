@@ -1,0 +1,38 @@
+doctype html
+html(lang='en')
+  head
+    title= title
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css')
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js')
+    script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js')
+  body
+    div(class='container')
+      div(class='row')
+        div(class='col-sm-12')
+        h1= title
+
+        form(method='POST' action='/user')
+            div.form-group
+                label(for='UserId') UserId:
+                input#userid.form-control(type='text', placeholder='User id' name='userid' required='true')
+            div.form-group
+                label(for='Firstname') FirstName:
+                input#firstname.form-control(type='text', placeholder='First Name' name='firstname' required='true')
+            div.form-group
+                label(for='Lastname') LastName:
+                input#lastname.form-control(type='text', placeholder='Last Name' name='lastname' required='true')
+            div.form-group
+                label(for='password') Password:
+                input#password.form-control(type='password' placeholder='password' name='password' required='true' )
+           div.form-group
+                label(for='Age') Age:
+                input#age.form-control(type='text', placeholder='age' name='age' required='true')
+                
+            button.btn.btn-primary(type='submit') Submit
+
+        if errors 
+            ul
+            for error in errors
+                li!= error.msg
