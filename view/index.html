@@ -1,0 +1,36 @@
+
+  <!DOCTYPE html>
+  <html>
+      <script src="../app.js" ></script>
+      <style>
+        .button {
+      background-color: #4CAF50; /* Green */
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+    input[type=submit]:hover {
+    background-color: #45a049;
+    }
+    div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    }
+      </style>
+  <body>
+  
+  <h3 >WELCOME </h3>
+  
+  <form action="http://127.0.0.1:3000/login" method="get" id="nameform">
+  </form>
+  <form action="http://127.0.0.1:3000/signup" method="get" id="nameform2">
+  </form>
+  <button class="button" type="submit" form="nameform" value="lOGIN">LogIn</button> 
+  <button  class="button" type="submit" form="nameform2" value="SIGNUP">SignUp</button>
+  </body>
+  </html>

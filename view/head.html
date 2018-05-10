@@ -1,0 +1,47 @@
+
+  <!DOCTYPE html>
+<html>
+    <script src="../app.js" ></script>
+    <style>
+.button {
+    background-color: #4CAF50;/* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.button2 {
+    background-color: rgb(235, 32, 25); 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+    </style>
+<body>
+
+<h3 >WELCOME </h3>
+
+<form action="http://127.0.0.1:3000/add" method="get" id="nameform">
+</form>
+<form action="http://127.0.0.1:3000/retrive" method="get" id="nameform2">
+</form>
+<form action="http://127.0.0.1:3000/deleteIndex" method="get" id="nameform3">
+</form>
+<form action="http://127.0.0.1:3000/updateIndex" method="get" id="nameform4">
+</form>
+<form action="http://127.0.0.1:3000/logout" method="get" id="nameform5">
+</form>
+<button class="button" type="submit" form="nameform" value="ADD">ADD</button> 
+<button  class="button" type="submit" form="nameform2" value="SHOW">SHOW</button>
+<button  class="button" type="submit" form="nameform3" value="DELETE">Delete</button>
+<button  class="button" type="submit" form="nameform4" value="UPDATE">Update</button>
+<button class="button2" type="submit" form="nameform5" value="LOGOUT">LOGOUT</button>
+</body>
+</html>

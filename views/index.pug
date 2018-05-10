@@ -1,0 +1,47 @@
+doctype html
+html(lang='en')
+  head
+    title= title
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css')
+    script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js')
+    script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js')
+  body
+    div(class='container')
+      div(class='row')
+        div(class='col-sm-12')
+        h1= title
+        div(class='back')
+        form(method='POST' action='/user' )
+            div.form-group
+                label(for='UserId') User ID/Email ID:
+                input#userid.form-control(type='text', placeholder='User id' name='userid' required='true' value=(undefined===users ?  undefined: users.userid) )
+            div.form-group
+                label(for='firstname') First Name:
+                input#firstname.form-control(type='text' placeholder='firstname' name='firstname'  value=(undefined===users ?  undefined: users.firstname) )
+            div.form-group
+                label(for='lastname') Last Name:
+                input#lastname.form-control(type='text' placeholder='lastname' name='lastname' required='true' value=(undefined===users ?  undefined: users.lastname) )
+            div.form-group
+                label(for='UserId') Phone Number:
+                input#phonenumber.form-control(type='text', placeholder='Phone Number' name='phonenumber' required='true' value=(undefined===users ?  undefined: users.phonenumber) )
+            div.form-group
+                label(for='password') Password:
+                input#password.form-control(type='password' placeholder='password' name='password' required='true' value=(undefined===users ?  undefined: users.password) )
+            div.form-group
+                label(for='age') Age:
+                input#age.form-control(type='age' placeholder='age' name='age' required='true' value=(undefined===users ?  undefined: users.age) )
+            div.form-group
+                label(for='role') Role:
+                select#role.form-control(type='select' placeholder='Select Role' name='role' required='true' value=(undefined===users ?  undefined: users.role) )
+                    option(value='User') User
+                    option(value='Admin') Admin
+            div.form-group
+                label(for='role') Profile Image:
+                input(type='file' name="photo" )
+            button.btn.btn-primary(type='submit') Submit
+        h3= message
+        if errors 
+            ul
+            #{errors.message}
